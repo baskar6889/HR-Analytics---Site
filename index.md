@@ -2,7 +2,7 @@
 layout: home
 title: WI HR Analytics
 description: Provide best-in-class HR Analytics consulting and solutioning
-intro_image: "images/illustrations/peopleanalytics.jpeg"
+intro_image: "images/illustrations/peopleanalytics.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
